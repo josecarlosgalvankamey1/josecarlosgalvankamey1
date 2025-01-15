@@ -4,7 +4,7 @@
 I'm passionate about backend development, particularly with Java technologies and competitive programming.
 
 ## Skills
-- **Languages**: Java
+- **Languages**: Java, C++
 - **Frameworks**: Spring Boot
 - **Tools**: Docker
 
